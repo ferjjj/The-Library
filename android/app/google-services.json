@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923546555708",
+    "project_id": "the-library-b07f0",
+    "storage_bucket": "the-library-b07f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923546555708:android:a8b7002d2e2c1f8c7dba39",
+        "android_client_info": {
+          "package_name": "com.thelibrary.the_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuODVuCgQStfbtyxHkCod17UtsUNTynLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
